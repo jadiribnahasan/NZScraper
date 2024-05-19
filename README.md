@@ -68,7 +68,7 @@ sudo systemctl status mongodb
 
     ```bash
     source venv/bin/activate
-    python sc.py
+    python scrapper.py
     ```
    
 3. In another new terminal window, activate the virtual environment and run the crud_server script:
