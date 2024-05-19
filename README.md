@@ -59,7 +59,7 @@ sudo systemctl status mongodb
 
 ## Running the Scripts
 
-1. Run the db_manager script (replace db_manager.py with the actual name of your script):
+1. Run the db_manager script:
 
     ```bash
     python db_manager.py
